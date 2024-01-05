@@ -1,0 +1,45 @@
+site_name: DCI 101 - Introduction to Digital Culture and Information 
+base_url: https://mackenziekbrooks.github.io/dci101-w24
+
+theme: 
+  name: material
+
+  features:
+      - navigation.tabs
+      - navigation.sections
+
+  palette: 
+    primary: light green    
+
+  logo: images/noun-tv-culture.png
+  favicon: images/noun-tv-culture.png
+
+plugins:
+  - search
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+
+nav:
+  - Course Info:
+    - Course info: index.md
+    - Domain: domain.md
+    - Policies: policies.md
+    - Protocols: protocols.md
+  - Schedule:
+    - Week 1: schedule/week01.md
+    - Week 2: schedule/week02.md
+    - Week 3: schedule/week03.md
+    - Week 4: schedule/week04.md
+    - Week 5: schedule/week05.md
+    - Week 6: schedule/week06.md
+    - Week 7: schedule/week07.md
+    - Week 8: schedule/week08.md
+    - Week 9: schedule/week09.md    
+    - Week 10: schedule/week10.md
+    - Week 11: schedule/week11.md
+    - Week 12: schedule/week12.md
+  - Assignments:
+    - Assignments: assignments.md
+    - Specs Grading: grading.md
