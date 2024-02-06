@@ -450,8 +450,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#read-for-thursday" class="md-nav__link">
-    Read for Thursday:
+  <a href="#for-thursday" class="md-nav__link">
+    For Thursday:
   </a>
   
 </li>
@@ -720,8 +720,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#read-for-thursday" class="md-nav__link">
-    Read for Thursday:
+  <a href="#for-thursday" class="md-nav__link">
+    For Thursday:
   </a>
   
 </li>
@@ -787,11 +787,10 @@
 <li>icebreaker: </li>
 <li>what were your apps for good? </li>
 <li>readings discussion</li>
-<li>Open Refine? </li>
 <li>Activity 4.1 - let's make some data! <ul>
 <li>Start with the <a href="https://dspace.wlu.edu/handle/11021/34413">Alumni Coeducation Correspondence, May 10, 1984 (report)</a> from the <a href="https://dspace.wlu.edu/">W&amp;L Digital Archive</a>. Take some time to read through the report, making note of the content and how it is presented. How are the first few pages different than the rest?</li>
-<li>Create your data model in a Box note for your group in <a href="">this folder</a>. Look over all the types of information included in the report. Choose what fields you think you should include. Why are you choosing those fields? How would these fields be useful in exploring/visualizing the data? Will your data collection enable certain research questions? Is there anything you can leave out?</li>
-<li>Once your model is set up, go ahead and start transcribing the data. Each team will be assigned a few pages to transcribe into [this Google spreadsheet]. Try to avoid looking at other team's sheets. We want to be able to compare the differences at the end of this activity.</li>
+<li>Create your data model (a list of the fields you want to include and how to express those values) in a Box note for your group in <a href="https://wlu.app.box.com/folder/247811946327">this folder</a>. Look over all the types of information included in the report. Choose what fields you think you should include. Why are you choosing those fields? How would these fields be useful in exploring/visualizing the data? Will your data collection enable certain research questions? Is there anything you can leave out?</li>
+<li>Once your model is set up, go ahead and start transcribing the data. Each team will be assigned a few pages to transcribe into <a href="https://docs.google.com/spreadsheets/d/1MnysFHZT-2iVPLTVBDELrpw--BiQmP8wfPbbSUZMrdI/edit?usp=sharing">this Google spreadsheet</a>. Try to avoid looking at other team's sheets. We want to be able to compare the differences at the end of this activity.</li>
 <li>After we come back from the small groups, compare your data model to that of other groups and answer the following questions.<ul>
 <li>How are the models different?</li>
 <li>What did your group include that others didn't and vice versa?</li>
@@ -800,9 +799,39 @@
 </li>
 </ul>
 </li>
+<li>Activity 4.2</li>
+<li>Let's practice making some visualizations with this data. Here's a more complete dataset: <a href="https://wlu.app.box.com/file/1033106280115">Coeducation data</a>. </li>
+<li>You have options! You can 1) make some hand drawn visualizations using paper/pen provided 2) work in Google Sheets or 3) work in Excel. Or start in one and move to the other! </li>
+<li>Here are some instructions in <strong>Excel</strong>: 
+        * First, we need to make a <strong>PivotTable</strong>. This creates a version of the data that be more easily summarized for the charts. 
+        * Select all the columns in your spreadsheet.
+        * Go to <code>Insert</code> then select <code>PivotTable</code>. 
+        * Complete the wizard. You'll want to <code>add to new worksheet</code>. <ul>
+<li>Let's make a basic bar graph that shows the breakdown of support for coeducation. <ul>
+<li>First, add the <code>PivotChart</code> box to your sheet. It's in the middle of the Insert menu.</li>
+<li>In the pane on the right called <code>PivotChart Fields</code>, select <code>opinion</code>. You should a count of all the opinions in a single bar. Sure okay, but not quite what we want. </li>
+<li>Drag the <code>opinion</code> field to the <code>Axis (Categories)</code> window. Now we see each category broken out on the X axis. Ta da! </li>
+<li>Can you figure out how to make this a pie chart? </li>
 </ul>
-<h2 id="read-for-thursday">Read for Thursday:<a class="headerlink" href="#read-for-thursday" title="Permanent link">#</a></h2>
+</li>
+<li>What about a stacked bar graph that shows both the opinion and who they wrote to? Try it first before reading the instructions.<ul>
+<li>Select the stacked column chart type. </li>
+<li>Add <code>opinion</code> to the <code>Values</code> box.</li>
+<li>Add <code>opinion</code> to the <code>Axis (Categories)</code> box.</li>
+<li>Add <code>addressee of letter</code> to the <code>Legend (Series)</code> box.</li>
+</ul>
+</li>
+<li>In <strong>Google Sheets</strong>:<ul>
+<li>Select the column(s) you want to visualize. </li>
+<li>From the menu, go to Insert &gt; Chart. A window pops up and makes suggestions for you. Spend some time with these options!</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="for-thursday">For Thursday:<a class="headerlink" href="#for-thursday" title="Permanent link">#</a></h2>
 <ul>
+<li>Try to install <a href="https://openrefine.org/">Open Refine</a>. It's okay if you're not successful, but give it a shot. If you're on a Mac and you get a security notice, press <code>cmd space</code> then search for the "Privacy and Security" settings. Somewhere in the Security section there should be some information about it blocking your install, but you can press allow or "open anyway." Sorry for imprecise instructions but it's different depending on your operating system!</li>
 <li><a href="https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3">What Gets Counted Counts</a> - D'Ignazio and Klein</li>
 <li><a href="https://trinachi.github.io/data-design-builds/ch17.html">Data + Design</a> - Chapter 17</li>
 </ul>
@@ -828,33 +857,14 @@
 <li>Activity 4.3: Open Refine<ul>
 <li>Download <a href="https://openrefine.org/">Open Refine</a>. Some of you will have Java problems. It will be okay. </li>
 <li>The <a href="https://docs.openrefine.org/">documentation</a> is available if needed, as is a <a href="https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine">tutorial from Programming Historian</a>.</li>
-<li>Start by uploading your data. After selecting your file, you'll be brough to a preview screen where you can make sure the column headings appear as they should. You'll need to press <code>Create Project</code> to continue. </li>
+<li>Start by uploading your data. After selecting your file, you'll be brought to a preview screen where you can make sure the column headings appear as they should. You'll need to press <code>Create Project</code> to continue. </li>
 <li>Unlike Excel, you don't use this program to read every column. Instead, you want to think of what kind of operations you want to perform on each column. From the drop down arrows next to each column name, you'll find a menu of options. Explore!</li>
 <li>What does <code>Text Facet</code>s do? How can it be helpful?</li>
 <li><code>Edit Cells &gt; Cluster and Edit</code> what does this tool do? </li>
 <li>How could you split columns into two? Or combine two into one? </li>
 </ul>
 </li>
-<li>Activity 4.4: data visualization - We didn't get to this in class, please ignore!</li>
 </ul>
-<pre><code>
-    * Let's go back to our Coeducation Report data. [Here's a compiled version](https://wlu.app.box.com/file/1033106280115). 
-    * Working in Excel, let's make a couple basic charts. 
-    * First, we need to make a **PivotTable**. This creates a version of the data that be more easily summarized for the charts. 
-        * Select all the columns in your spreadsheet.
-        * Go to `Insert` then select `PivotTable`. 
-        * Complete the wizard. You'll want to `add to new worksheet`. 
-    * Let's make a basic bar graph that shows the breakdown of support for coeducation. 
-        * First, add the `PivotChart` box to your sheet. It's in the middle of the Insert menu.
-        * In the pane on the right called `PivotChart Fields`, select `opinion`. You should a count of all the opinions in a single bar. Sure okay, but not quite what we want. 
-        * Drag the `opinion` field to the `Axis (Categories)` window. Now we see each category broken out on the X axis. Ta da! 
-        * Can you figure out how to make this a pie chart? 
-    * What about a stacked bar graph that shows both the opinion and who they wrote to? Try it first before reading the instructions.
-        * Select the stacked column chart type. 
-        * Add `opinion` to the `Values` box.
-        * Add `opinion` to the `Axis (Categories)` box.
-        * Add `addressee of letter` to the `Legend (Series)` box.
-</code></pre>
 <h2 id="week-4-assignments-due-tuesday-at-12pm">Week 4 Assignments - Due Tuesday at 12pm<a class="headerlink" href="#week-4-assignments-due-tuesday-at-12pm" title="Permanent link">#</a></h2>
 <h3 id="blog-post-4-data-viz-interrogation">Blog post #4 - data viz interrogation<a class="headerlink" href="#blog-post-4-data-viz-interrogation" title="Permanent link">#</a></h3>
 <p>Let's make sure you can think critically about data and data visualizations that are designed to persuade. This blog post focuses on the audience and argument of data and data visualizations. Go out into the wilds of the internet and find a data visualization that speaks to you. It doesn't have to be on the topic of your future project, but this might be a nice way to get started on research. Answer the following questions:</p>
