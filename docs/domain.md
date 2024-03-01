@@ -20,8 +20,14 @@ Whether you knew it or not, chances are you have visited many, many WordPress we
 
 ## Domain Instructions
 
-### Uploading HTML/CSS files to your domain
+### Change your CPanel password
 
+1. Navigate to https://yourusername.wludci.info/cpanel.
+2. Login with your W&L username (not the @mail.edu part) and the generic password (to be shared in class).
+3. Click on the person icon in the top right of the window. Select `Password & Security`.
+4. Change the password to something you can remember or store. There's not automatic way to reset your password like there is with other services. W&L provides [Keeper](https://my.wlu.edu/its/how-to/keeper) as a password manager. Highly recommend using one! 
+
+### Uploading HTML/CSS files to your domain
 
 1. Navigate to http://yourdomain.wludci.info/cpanel and login.
 2. In CPanel, open up the File Manager.

@@ -9,11 +9,11 @@ You will use Canvas to turn in assignments and to receive feedback. I will mark 
 
 This is a lot to get used to at first, so please ask any questions you have early in the semester. We will do a midterm check-in so you have a good understanding of where you are. 
 
-
+If you'd like to learn more, here's a [resource from UN-Lincoln](https://teaching.unl.edu/resources/grading-feedback/specifications-grading/).
 
 ### Tokens
 
-You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you one week to revise and resubmit an assignment to receive credit. To use a token, you will submit an entry in Canvas declaring which assignment you're revising. I'll award a point in Canvas for each token you use, but these points are not factored into your final grade. Using a token does not guarantee that you will receive a complete on the resubmission, but hopefully with my feedback you can get there. 
+You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you *one week* to revise and resubmit an assignment to receive credit. To use a token, you must submit an entry in Canvas declaring which assignment you're revising. Then you must re-submit your revised work for the appropriate assignment in Canvas. I'll award a point in Canvas for each token you use, but these points are not factored into your final grade. Using a token does not guarantee that you will receive a complete on the re-submission, but hopefully with my feedback you can get there. 
 
 
 ### Grading Scale

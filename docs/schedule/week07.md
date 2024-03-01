@@ -1,33 +1,37 @@
 # Week 7 - Method 1: Reading at scale
 *How can computers help us read? How do we make sense of millions of tweets, documents, or books? We’ll examine scholarly text analysis projects and learn a few tools for conducting our own analysis.*
 
-### Read for Tuesday:
+### Prep for Tuesday:
 
-* [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) - read sections Issues in Digital Text Analysis, Close Reading, Cyborg Readers, Reading at Scale
+* Read [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) - read sections Issues in Digital Text Analysis, Close Reading, Cyborg Readers, Reading at Scale
 
 
-## Tuesday, October 25, 2022
+## Tuesday, March 5, 2024
 
 * icebreaker
-* Activity 7.1: [Ways to Read (Taylor's Version)](https://docs.google.com/presentation/d/1D87efNfux6yiEweCCX7fJxn5SIUTtDT6LBsFw3fXK7Y/edit?usp=sharing)
-
-### Read for Thursday:
-* [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) - read sections Topic Modeling, Supervised Classifiers, Sentiment Analysis
-* [Argument Clinic](http://scottbot.net/argument-clinic/)
-
-## Thursday, October 27, 2022
-* icebreaker: 
-* Project chat. Before we start, let's do a little freewriting. Take out a piece of paper and address the following: 
+* Project chat. Before we start, let's do a little free writing. Take out a piece of paper and address the following: 
 	* How am I feeling about my project?
     * What research do I need to do before writing my proposal?
     * What analysis and visualization methods am I interested in?
     * What questions do I have for Prof. Brooks?
     * What are my immediate next steps?
+* Activity 7.1: Ways to Read (Taylor's Version)
+
+
+### Prep for Thursday:
+* Read: [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) -  sections Topic Modeling, Supervised Classifiers, Sentiment Analysis
+* [Argument Clinic](https://web.archive.org/web/20220122103133/http://scottbot.net/argument-clinic/) - this should be helpful for thinking about your proposal too!
+* Project Proposal Draft
+	* See [assignment description](../../assignments/#proposal). You should plan to write a complete draft as possible (250 words at least). You can ask a lot of questions, but you need to put in the time to really figure out what you're doing! We'll have individual consultations on Thursday of Week 8 to chat about your project and get you ready to submit your final proposal. 
+
+
+## Thursday, March 7, 2024
+* icebreaker: 
 
 * Text analysis methods and tools 
 	* Activity 6.2 - How to build your corpus
 		* [Ring-tum Phi dataset](https://github.com/wludh/dataset-RingtumPhi) 
-		* Browse the RTP in the [Digital Repository](https://dspace.wlu.edu/handle/11021/34829)
+		* Browse the RTP in the [Digital Repository](https://dspace.wlu.edu/handle/11021/36090/browse?type=dateissued)
 	* Activity 6.3 - a quick diversion into the command line 
 		* On your computer, search for a program called `terminal` or `cmd.exe` (Windows).
 		* Type `pwd` then hit enter. What do you see? 
@@ -51,8 +55,6 @@
 
 ## Week 7 Assignments - Due Tuesday at 12pm
 
-### Project Proposal Draft
-See [assignment description](../../assignments/#proposal). You should plan to write a complete draft as possible (250 words at least). You can ask a lot of questions, but you need to put in the time to really figure out what you're doing! We'll have individual consultations on Thursday of Week 8 to chat about your project and get you ready to submit your final proposal. 
 
 ### Blog post #7
 Let's take time to do a deep dive into one specific text analysis project. Select from the following list:

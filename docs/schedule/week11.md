@@ -1,7 +1,7 @@
 # Week 11 - Project work 
 *Class this week will be a mix of structured activities and unstructured work time to advance your project’s progress.*
 
-## Tuesday, November 29, 2022
+## Tuesday, April 2, 2024
 * icebreaker: favorite part of break?
 * Project pep talk
 * Wireframing
@@ -19,7 +19,7 @@
 
 * Prepare 500 words of text for peer review on Thursday. 
 
-## Thursday, December 1, 2022
+## Thursday, April 4, 2024
 * Guest speaker: Lilly Mitchell '21 at 3:30pm. Think of some questions for her! 
 * Essay content peer review:
 	* Mesoma, Bennett, Chelsea

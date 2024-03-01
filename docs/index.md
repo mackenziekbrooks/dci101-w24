@@ -4,7 +4,7 @@ title: DCI 101 Intro to Digital Culture & Information
 
 Winter 2024 // TR 3:15-4:45pm
 
-The [course website](http://mackenziekbrooks.github.com/dci101-f22) is a living document. It will change regularly to reflect the needs of the course.
+The [course website](http://mackenziekbrooks.github.com/dci101-w24) is a living document. It will change regularly to reflect the needs of the course.
 
 
 ## Contact
@@ -13,10 +13,10 @@ Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/h
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
-Office hours: Mondays 10a-12pm, Thursdays 2-3pm, or by appointment. Please don't hesitate to schedule a meeting with me! I have a lot of meetings in my work life and can't always honor office hours. I'm usually on campus five days a week and happy to meet outside of office hours (but still between 9am-5pm.) 
+Office hours: Wednesdays 10am-12pm, Thursdays 2-3pm, or by appointment. Please don't hesitate to schedule a meeting with me! I have a lot of meetings in my work life and can't always honor office hours. I'm usually on campus five days a week and happy to meet outside of office hours (but still between 9am-5pm.) 
 
 ## Course description
-What does it mean to be a citizen of a digital world? How do you think critically about the ways that technology shapes our society? How do you learn new digital skills when platforms are constantly changing? How do you find and use information effectively without being overwhelmedor mislead?
+What does it mean to be a citizen of a digital world? How do you think critically about the ways that technology shapes our society? How do you learn new digital skills when platforms are constantly changing? How do you find and use information effectively without being overwhelmed or mislead?
 
 Through hands-on activities and project-based learning, this course serves as an introduction to the study of digital culture and information. Students will develop the critical capacity and technological fluency necessary to understand, analyze, critique, and create in a world dominated by digital media, software algorithms, and information overload.
 

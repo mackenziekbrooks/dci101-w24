@@ -6,31 +6,31 @@
 * Sign up for a [presentation slot on Box](https://wlu.app.box.com/notes/1078425757154).
 * [course evaluation link](https://docs.google.com/forms/d/e/1FAIpQLSdPNnTqNF5IrRHgSKhMFSoQD0uNPBIdOox_RssYdEyDZjRMrw/viewform)
 
-## Thursday, December 8 
+## Thursday, April 9, 2024
 
 * Presentations
 
 
-## Your digital essay is due Friday 12/9 at 11:59pm. 
+## Your digital essay is due Friday 4/10 at 11:59pm. 
 
-## Blog Post 12 is due Friday 12/9 at 11:59pm.
+## Blog Post 12 is due Friday 4/10 at 11:59pm.
 
 In 200-300 words, reflect on the presentations of your classmates. What was impressive? What was unexpected? What was inspiring? As you think about all the projects together, what can you say about digital culture and information? 
 
 **Specs:**
 
-* Due Friday, December 9th at 11:59pm.
+* Due Friday, April 10 at 11:59pm.
 * Create a post on WordPress, turn it in on Canvas.
 * 200-300 words.
 
 
-## Your final reflection is due 12/16 by 5pm. 
+## Your final reflection is due 4/19 by 5pm. 
 
 No project is complete without time taken to reflect on its successes and lessons learned. Talk about your feelings! What have you learned about digital culture and information? What have you learned about yourself and the way you learn new things? 
 
 **Specs:**
 
-* Due Friday, December 16th by 5pm.
+* Due Friday, April 19 by 5pm.
 * Submit as a document in Canvas.
 * 500-1000 words.
 * Address the following. Your answers should be about the course as a whole, not just your project topic.

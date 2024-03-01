@@ -1,14 +1,48 @@
 # Week 5 - Information wants to be free?!
-*We could talk about intellectual property and digital culture for years and years. Unfortunately, we've got one day and I won't even be here! Enjoy our short week and the guest visit by Profs. Emily Cook and Brittany Norwood.*
+*We could talk about intellectual property and digital culture for years and years.*
 
-### Read for Tuesday: 
+### For Tuesday: 
 
-## Tuesday, October 11, 2022
-* Prof. Brooks at a conference
-* Guest class by Prof. Emily Cook (Research and Instruction Librarian) and Prof. Brittany Norwood (Research Services Librarian). 
+* [A Fairy Use Tale](https://youtu.be/CJn_jC4FNDo)
+* [Copyright 101](https://guides.library.cornell.edu/copyright/copyright-101)
 
-## Thursday, October 13, 2022
-* No class! Reading days!
+
+Read **at least one** of the following:
+
+* [Who Owns a Recipe? A Plagiarism Claim Has Cookbook Authors Asking](https://www.nytimes.com/2021/11/29/dining/recipe-theft-cookbook-plagiarism.html?smid=url-share)
+* [Copyright Law: Taylor's Version](https://wjlta.com/2023/03/07/copyright-law-taylors-version/) (btw you can get a NYT account/subscription through W&L, search the library website for more info)
+* [The Sleepy Copyright Office in the Middle of a High-Stakes Clash Over A.I.](https://www.nytimes.com/2024/01/25/technology/ai-copyright-office-law.html)
+* [Copyright Chaos: Legal Implications of Generative AI](https://www.bloomberglaw.com/external/document/XDDQ1PNK000000/copyrights-professional-perspective-copyright-chaos-legal-implic)
+* [Unclosure Project](https://unclosure.scholarslab.org/About/)
+
+
+## Tuesday, February 13, 2024
+
+* icebreaker: 
+* copyright 101 
+* [slides](https://docs.google.com/presentation/d/1BKnFPklWYUs_MpyAhjRvb4Qn6uOVpzx9Yvh5q_4lcG0/edit?usp=sharing) 
+* copyright + fair use challenge 
+	* Each table will receive a set of copyright challenges. 
+	* Work together to answer each question. You don't have to answer them in order, they're just numbered for identification.
+	* Add your answers to the whiteboard. There will be a section for "yes - permissible" and "no copyright law does not allow this use."
+	* You must show your work! What is your evidence? 
+	* The following sites may be useful:
+		* [Fair Use Checklist](https://guides.library.cornell.edu/ld.php?content_id=63936868)
+		* [W&L IP Policy](https://my.wlu.edu/general-counsel/code-of-policies/copyright-and-other-intellectual-property-issues/intellectual-property)
+		* [Copyright.gov](https://www.copyright.gov/title17/)
+		* [AI Policy Guidance](https://www.copyright.gov/ai/ai_policy_guidance.pdf)
+
+
+### For Thursday:
+
+* [Open Access Explained](https://www.youtube.com/watch?v=L5rVH1KGBCY)
+* You will be doing some research on your potential topic, so take a moment to assess how you're feeling about that topic and what direction you might want to take.
+
+
+## Thursday, February 15, 2024
+
+* icebreaker: 
+* Visit from librarian friends Amira Walker and Jenny Carlos. 
 
 
 ## Week 5 Assignments - Due Tuesday at 12pm

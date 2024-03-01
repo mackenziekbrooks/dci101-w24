@@ -31,7 +31,7 @@ You are not doing this work in a vacuum! It's important to have a sense of the e
 
 **Specifications:**
 
-* Due October 18th at 12pm. 
+* Due February 20th at 12pm. 
 * Published to your website, submitted on Canvas. 
 * 6-10 sources. 3 must be scholarly sources (books, journal articles, or peer reviewed web sources). 
 * Each source should be formatted in an established citation style of your choosing. Use [Zotero](http://library.wlu.edu/zotero) if it helps! 
@@ -43,7 +43,7 @@ Time to commit! What is your digital essay going to be about? What questions are
 
 **Specifications:**
 
-* Draft due November 1; Final version due November 15th. 
+* Draft due March 7th; Final version due March 21st. 
 * Published your website, submitted on Canvas.
 * 300-500 words. 
 * Address the following: 
@@ -58,7 +58,7 @@ Time to commit! What is your digital essay going to be about? What questions are
 
 **Specifications**
 
-* Due Week 12
+* Due April 12th at noon.
 * Published to the web on your domain. You can choose one of the following:
 	* A section of your course WordPress site.
 	* A new WordPress installation dedicated to your essay.
@@ -67,7 +67,7 @@ Time to commit! What is your digital essay going to be about? What questions are
 * Your essay should attempt to answer the research questions outlined in your proposal. 
 * Use at least one of the methods we learned this term (data viz, text analysis, web scraping, mapping). How you incorporate these methods is going to depend a lot on your topic and your questions. You should plan to include at least three visualizations. 
 * A clearly defined structure to your essay that takes advantage of the digital medium. Don't just copy and paste a Word doc! Use headings or separate pages. In general, you want sections like: introduction, lit review, methods, results, bibliography. But you're free to be creative with how they come together! 
-* Similiarly, the design of the website should complement your content. The affordances of your WordPress theme should be in line with the goals of the essay. It should be clear that you made design choices beyond what comes out of the box. This could be color, imagery, hand-coded elements, embedded media, etc. 
+* Similarly, the design of the website should complement your content. The affordances of your WordPress theme should be in line with the goals of the essay. It should be clear that you made design choices beyond what comes out of the box. This could be color, imagery, hand-coded elements, embedded media, etc. 
 * You can re-use content from previous assignments (like your proposal), but you should revise any text based on feedback and to ensure it flows with the entire essay.  
 
 
